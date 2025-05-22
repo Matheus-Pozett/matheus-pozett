@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓 Desenvolvedor Fullstack formado pela Trybe.<br>- 💻 Cursando Analise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe.<br>- 📚 Gosto muito de estudar<br>- 📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
+<p align="left">- 🎓 Desenvolvedor Fullstack formado pela Trybe.<br>- 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe.<br>- 📚 Gosto muito de estudar<br>- 📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
 
 ###
 
